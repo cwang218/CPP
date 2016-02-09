@@ -1,2 +1,0 @@
-driver.o: driver.cpp exception.h vector.h vector.hpp matrix.h matrix.hpp \
-  gaussian_solver.h gaussian_solver.hpp
