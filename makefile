@@ -5,11 +5,6 @@
 ###############################################################################
 #
 # Programmer :  Christine Wang
-# Assignment :  Assignment 2
-#
-# Instructor :  Clayton Price
-# Course     :  CS5201
-# Semester   :  Spring 2015
 #
 ###############################################################################
 

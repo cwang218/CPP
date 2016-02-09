@@ -1,6 +1,6 @@
 ///////////////////////////////////////////////////////////////////////////////////////
 /// @file driver.cpp                                                                ///
-/// @author Jeff Goymerac                                                           ///
+/// @author Christine Wang                                                          ///
 /// @brief This file implements the templated Diagonal, Tridiagonal, and  Symetric  ///
 ///     Matrix classes                                                              ///
 ///                                                                                 ///
