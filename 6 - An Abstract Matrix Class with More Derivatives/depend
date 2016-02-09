@@ -1,0 +1,2 @@
+driver.o: driver.cpp vector.h vector.hpp matrixbase.h matrix.h matrix.hpp \
+  umatrix.h umatrix.hpp lmatrix.h lmatrix.hpp gauss.h gauss.hpp
