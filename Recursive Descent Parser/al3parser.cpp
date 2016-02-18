@@ -1,6 +1,5 @@
 // Christine Wang
-// CS 3500
-// Homework 2 - Recursive Descent Parser
+// Recursive Descent Parser
 
 #include <iostream>
 #include <cstdio>
